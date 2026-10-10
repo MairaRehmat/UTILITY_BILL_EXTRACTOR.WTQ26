@@ -1,0 +1,121 @@
+bill_id,question_id,question,answer
+bill_001,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_001,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_001,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_001,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_001,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_001,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_001,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_001,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_001,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_001,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_001,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_001,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_002,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_002,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_002,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_002,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_002,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_002,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_002,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_002,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_002,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_002,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_002,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_002,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_003,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_003,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_003,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_003,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_003,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_003,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_003,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_003,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_003,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_003,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_003,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_003,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_004,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_004,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_004,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_004,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_004,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_004,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_004,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_004,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_004,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_004,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_004,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_004,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_005,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_005,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_005,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_005,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_005,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_005,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_005,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_005,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_005,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_005,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_005,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_005,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_006,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_006,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_006,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_006,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_006,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_006,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_006,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_006,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_006,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_006,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_006,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_006,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_007,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_007,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_007,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_007,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_007,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_007,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_007,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_007,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_007,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_007,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_007,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_007,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_008,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_008,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_008,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_008,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_008,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_008,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_008,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_008,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_008,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_008,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_008,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_008,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_009,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_009,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_009,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_009,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_009,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_009,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_009,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_009,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_009,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_009,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_009,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_009,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
+bill_010,Q1,What is the total bill amount payable within the due date?,The bill does not provide enough information to determine this.
+bill_010,Q2,What is the due date for this bill?,The bill does not provide enough information to determine this.
+bill_010,Q3,How many units of electricity were consumed this month?,The bill does not provide enough information to determine this.
+bill_010,Q4,Who is the electricity distribution provider for this bill?,The bill does not provide enough information to determine this.
+bill_010,Q5,What is the total amount of government taxes charged on this bill?,The bill does not provide enough information to determine this.
+bill_010,Q6,What is the total amount payable if paid after the due date?,The bill does not provide enough information to determine this.
+bill_010,Q7,Are there any previous unpaid arrears listed on this bill?,The bill does not provide enough information to determine this.
+bill_010,Q8,What is the sanctioned load in kW for this consumer?,The bill does not provide enough information to determine this.
+bill_010,Q9,What is the effective billing month and year for this bill?,The bill does not provide enough information to determine this.
+bill_010,Q10,What are the total electricity energy charges before taxes?,The bill does not provide enough information to determine this.
+bill_010,Q11,How much is the fuel price adjustment (FPA) or surcharge charge?,The bill does not provide enough information to determine this.
+bill_010,Q12,What percentage of the total bill consists of taxes?,The bill does not provide enough information to determine this.
